@@ -1,2 +1,2 @@
 #!/bin/bash
-ls [[:alpha:]]*
+ls /etc/ssn/sshd_config [[:alpha:]]*
